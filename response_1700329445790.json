@@ -1,0 +1,7181 @@
+[
+  {
+    "_id": "a0ec4fe5-27c2-4aba-9b5c-7441a13f6906",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "مُوَطِّنَة"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "و ط ن"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "مُوَطِّنَة"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538df29c477e0bb8a9dc063",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "مؤنث (مُوَطِّن)"
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "مُفَعِّلَة",
+    "pos": "AS",
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "موطنة",
+    "extras": {
+      "letterId": 28,
+      "riyadhId": "60635",
+      "senseIds": [
+        "78326"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538df29c477e0bb8a9dc063",
+          "transitivity": null,
+          "semanticField": "أفعال الاجتناب والإعراض",
+          "semanticDefinition": "مثل أفعال : الاجتناب، الإعراض، الاحتراز",
+          "usageLevel": "متوسط",
+          "theme": "عام",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "6eede7fb-0c80-4f80-ac58-762c1a402330",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "خُصُوصِيَّة"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "خ ص ص"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "خُصُوصِيَّة"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538e139c477e0bb8a9dfb95",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "مؤنث (خُصُوصِيّ)"
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "فُعُولِيَّة",
+    "pos": null,
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "خصوصية",
+    "extras": {
+      "letterId": 8,
+      "riyadhId": "69082",
+      "senseIds": [
+        "88778"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538e139c477e0bb8a9dfb95",
+          "transitivity": null,
+          "semanticField": "أفعال الاجتناب والإعراض",
+          "semanticDefinition": "مثل أفعال : الاجتناب، الإعراض، الاحتراز",
+          "usageLevel": "متوسط",
+          "theme": "عام",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "4eb10809-92c6-4699-b62a-26c02fb2fc5c",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "إِدْغَام بِغُنَّةٍ"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "كلمة ليس لها جذر"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "إِدْغَام بِغُنَّةٍ"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538dc34c477e0bb8a9d673f",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "إدخال النون الساكنة أو التنوين في أحد حروف (ينمو) بحيث يصيران حرفا واحدًا مشددًا مع بقاء الغنة."
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "nasal assimilation",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "الشروق",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "كلمة ليس لها وزن",
+    "pos": null,
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "إدغام بغنة",
+    "extras": {
+      "letterId": 9,
+      "riyadhId": "45749",
+      "senseIds": [
+        "57738"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538dc34c477e0bb8a9d673f",
+          "transitivity": null,
+          "semanticField": "عموم المفاهيم والمصطلحات",
+          "semanticDefinition": "المفاهيم والمصطلحات كلمات مثل: غبن-البناء الضوئي",
+          "usageLevel": "متخصص",
+          "theme": "لغوي",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "1be30ed9-5f28-4631-8191-1c61275644b1",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "اِزْدِهَار"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "ز ه ر"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "اِزْدِهَار"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538cf31c477e0bb8a9b84c1",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "نموّ، وتطوُّر."
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "prosperity; flourishing",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "مجلة الرسالة",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "بي بي سي",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "اِفْتِعَال",
+    "pos": "NA",
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "ازدهار",
+    "extras": {
+      "letterId": 12,
+      "riyadhId": "8244",
+      "senseIds": [
+        "17387"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538cf31c477e0bb8a9b84c1",
+          "transitivity": null,
+          "semanticField": "عموم المفاهيم والمصطلحات",
+          "semanticDefinition": "المفاهيم والمصطلحات كلمات مثل: غبن-البناء الضوئي",
+          "usageLevel": "متوسط",
+          "theme": "عام",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "bff1368a-a354-423d-a9c1-0a2a087006ad",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "شَاهِد نَحْوِيّ"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "كلمة ليس لها جذر"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "شَاهِد نَحْوِيّ"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538d796c477e0bb8a9cc40c",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "دليل من كلام العرب الفصيح، يساق لإثبات قاعدة نحوية."
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "Grammatical evidence",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "كلمة ليس لها وزن",
+    "pos": null,
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "شاهد نحوي",
+    "extras": {
+      "letterId": 14,
+      "riyadhId": "30084",
+      "senseIds": [
+        "38757"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538d796c477e0bb8a9cc40c",
+          "transitivity": null,
+          "semanticField": null,
+          "semanticDefinition": null,
+          "usageLevel": "متخصص",
+          "theme": "لغوي",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "c9fb084d-4e67-498c-ac39-4c9bcbfac373",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "اِزْدِوَاج اَلْبَصَرِ"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "كلمة ليس لها جذر"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "اِزْدِوَاج اَلْبَصَرِ"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538d6cdc477e0bb8a9cad83",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "مرض يُصيب العينَ فيجعلها ترى الشيءَ الواحدَ مزدوجًا."
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "diplopia; double vision",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "الاتحاد",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "كلمة ليس لها وزن",
+    "pos": null,
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "ازدواج البصر",
+    "extras": {
+      "letterId": 12,
+      "riyadhId": "27187",
+      "senseIds": [
+        "35859"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538d6cdc477e0bb8a9cad83",
+          "transitivity": null,
+          "semanticField": "أمراض",
+          "semanticDefinition": "كلمات مثل: أسماء الأمراض أنفلونزا-إيدز-برد",
+          "usageLevel": "متخصص",
+          "theme": "طبي",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "a1194e53-f137-437c-b4d5-8a5a4d8d2260",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "دُعَاء اَلْقُنُوتِ"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "كلمة ليس لها جذر"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "دُعَاء اَلْقُنُوتِ"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538d75dc477e0bb8a9cbdd1",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "دعاء في الصلاة يكون بعد القيام من ركوع الركعة الأخيرة وبخاصة في صلاتي الوتر والفجر."
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "devoutness supplication",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "طريق الإسلام",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "كلمة ليس لها وزن",
+    "pos": null,
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "دعاء القنوت",
+    "extras": {
+      "letterId": 9,
+      "riyadhId": "29280",
+      "senseIds": [
+        "37953"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538d75dc477e0bb8a9cbdd1",
+          "transitivity": null,
+          "semanticField": "مفاهيم ومصطلحات دينية",
+          "semanticDefinition": null,
+          "usageLevel": "متوسط",
+          "theme": "ديني",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "5bb9a698-60cc-4594-b046-d3b6cf40136b",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "اِنْجَذَبَ"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "ج ذ ب"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "اِنْجَذَبَ"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      },
+      {
+        "formRepresentations": [
+          {
+            "form": "يَنْجَذِب"
+          }
+        ],
+        "aspect": "S",
+        "gender": "m",
+        "numberWordForm": "1",
+        "person": "3",
+        "voice": "a"
+      },
+      {
+        "formRepresentations": [
+          {
+            "form": "اِنْجَذِبْ"
+          }
+        ],
+        "aspect": "C",
+        "gender": "m",
+        "numberWordForm": "1",
+        "person": "2",
+        "voice": "a"
+      },
+      {
+        "formRepresentations": [
+          {
+            "form": "اُنْجُذِبَ"
+          }
+        ],
+        "aspect": "P",
+        "gender": "m",
+        "numberWordForm": "1",
+        "person": "3",
+        "voice": "p"
+      },
+      {
+        "formRepresentations": [
+          {
+            "form": "يُنْجَذَب"
+          }
+        ],
+        "aspect": "S",
+        "gender": "m",
+        "numberWordForm": "1",
+        "person": "3",
+        "voice": "p"
+      },
+      {
+        "formRepresentations": [
+          {
+            "form": "يَنْجَذِب"
+          }
+        ],
+        "aspect": "S",
+        "gender": "m",
+        "numberWordForm": "1",
+        "person": "3",
+        "voice": "a"
+      },
+      {
+        "formRepresentations": [
+          {
+            "form": ""
+          }
+        ],
+        "aspect": "C",
+        "gender": "m",
+        "numberWordForm": "1",
+        "person": "2",
+        "voice": "a"
+      },
+      {
+        "formRepresentations": [
+          {
+            "form": "اُنْجُذِبَ"
+          }
+        ],
+        "aspect": "P",
+        "gender": "m",
+        "numberWordForm": "1",
+        "person": "3",
+        "voice": "p"
+      },
+      {
+        "formRepresentations": [
+          {
+            "form": "يُنْجَذَب"
+          }
+        ],
+        "aspect": "S",
+        "gender": "m",
+        "numberWordForm": "1",
+        "person": "3",
+        "voice": "p"
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538cc98c477e0bb8a9b1a57",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "اِنْجَذَبَ فلانٌ إلى فلانة: فُتِنَ بها‏."
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "be attracted to",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "اتخاذ المادة معيارا للقيم ومتى اتخذ المادة معيارا للقيم (انجذبت) إليها النفوس فتتأثر بخصائصها المميزة لها",
+            "source": "مجلة الرسالة",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "الشروق",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      },
+      {
+        "_id": "6538cc98c477e0bb8a9b1a58",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "اِنْجَذَبَ الشيءُ إلى الشيءِ: تحرَّك نحوه واندفع إليه."
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "be attracted to",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "يجذب الرّوح إليه روحها/ألطف الشيئين عندي ما (انجذب)",
+            "source": "ابن حمديس",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "الشروق",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "اِنْفَعَلَ",
+    "pos": "V",
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "انجذب",
+    "extras": {
+      "letterId": 6,
+      "riyadhId": "2440",
+      "senseIds": [
+        "666",
+        "7863"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538cc98c477e0bb8a9b1a57",
+          "transitivity": "فعل متعدٍّ بحرف",
+          "semanticField": "أفعال الاحترام والتقدير",
+          "semanticDefinition": "مثل أفعال : الاحترام، التقدير، التقديس",
+          "usageLevel": "متوسط",
+          "theme": "عام",
+          "mimmiInfinitive": "",
+          "subjectiveName": "مُنْجَذِب",
+          "comparativeAdjective": "",
+          "murraName": "",
+          "shapeName": "",
+          "infinitive": [
+            "اِنْجِذَاب"
+          ],
+          "objectiveName": [],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        },
+        {
+          "senseId": "6538cc98c477e0bb8a9b1a58",
+          "transitivity": "فعل متعدٍّ بحرف",
+          "semanticField": "أفعال الاحترام والتقدير",
+          "semanticDefinition": "مثل أفعال : الاحترام، التقدير، التقديس",
+          "usageLevel": "متوسط",
+          "theme": "عام",
+          "mimmiInfinitive": "",
+          "subjectiveName": "مُنْجَذِب",
+          "comparativeAdjective": "",
+          "murraName": "",
+          "shapeName": "",
+          "infinitive": [
+            "اِنْجِذَاب"
+          ],
+          "objectiveName": [],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "cfa0894a-421f-4dc3-aeda-37116b10fa3d",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "قَيَّاس"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "ق ي س"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "قَيَّاس"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538e8bfc477e0bb8a9eac8d",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "من يقوم بعملية القياس ، وتقدير المساحات."
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "اليوم السابع",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "كلمة ليس لها وزن",
+    "pos": "NC",
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "قياس",
+    "extras": {
+      "letterId": 22,
+      "riyadhId": "105284",
+      "senseIds": [
+        "145628"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538e8bfc477e0bb8a9eac8d",
+          "transitivity": null,
+          "semanticField": "أفعال الاحتقار والسخرية",
+          "semanticDefinition": "مثل أفعال : الاحتقار، السخرية، الازدراء",
+          "usageLevel": "شائع",
+          "theme": null,
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "138edbd3-d0a1-4ebb-b36e-046e4f4b799c",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "بَتَاتًا"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "ب ت ت"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "بَتَاتًا"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538cbafc477e0bb8a9afd61",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "قطعًا، كلمة لنفي القيام بالفعل أو حدوثه."
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "never",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "أرشيف المجلات الثقافية",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "الوطن",
+            "exampleType": null
+          }
+        ],
+        "relations": [
+          {
+            "_id": "6538cbafc477e0bb8a9afd5b",
+            "related": "6538d8cec477e0bb8a9cea8b",
+            "type": "SYNON"
+          },
+          {
+            "_id": "6538cbafc477e0bb8a9afd5c",
+            "related": "6538d959c477e0bb8a9d011a",
+            "type": "SYNON"
+          },
+          {
+            "_id": "6538cbafc477e0bb8a9afd5d",
+            "related": "6538dcdec477e0bb8a9d7d80",
+            "type": "SYNON"
+          },
+          {
+            "_id": "6538cbafc477e0bb8a9afd5e",
+            "related": "6538dcb0c477e0bb8a9d770c",
+            "type": "SYNON"
+          },
+          {
+            "_id": "6538cbafc477e0bb8a9afd5f",
+            "related": "6538cb58c477e0bb8a9aeef4",
+            "type": "SYNON"
+          },
+          {
+            "_id": "6538cbafc477e0bb8a9afd60",
+            "related": "6538d9eec477e0bb8a9d16aa",
+            "type": "ANTON"
+          }
+        ],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "فَعَال",
+    "pos": "NA",
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": true,
+    "sn": null,
+    "nonDiacriticsLemma": "بتاتا",
+    "extras": {
+      "letterId": 3,
+      "riyadhId": "736",
+      "senseIds": [
+        "10385"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538cbafc477e0bb8a9afd61",
+          "transitivity": null,
+          "semanticField": "أفعال الاجتناب والإعراض",
+          "semanticDefinition": "مثل أفعال : الاجتناب، الإعراض، الاحتراز",
+          "usageLevel": "متوسط",
+          "theme": "عام",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "d1b0b817-f8c3-4eb6-bcd9-9f3642d33d98",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "نَبَعَ"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "ن ب ع"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "نَبَعَ"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      },
+      {
+        "formRepresentations": [
+          {
+            "form": "يَنْبُع"
+          }
+        ],
+        "aspect": "S",
+        "gender": "m",
+        "numberWordForm": "1",
+        "person": "3",
+        "voice": "a"
+      },
+      {
+        "formRepresentations": [
+          {
+            "form": "اِنْبَعْ"
+          }
+        ],
+        "aspect": "C",
+        "gender": "m",
+        "numberWordForm": "1",
+        "person": "2",
+        "voice": "a"
+      },
+      {
+        "formRepresentations": [
+          {
+            "form": "نُبِعَ"
+          }
+        ],
+        "aspect": "P",
+        "gender": "m",
+        "numberWordForm": "1",
+        "person": "3",
+        "voice": "p"
+      },
+      {
+        "formRepresentations": [
+          {
+            "form": "يُنْبَع"
+          }
+        ],
+        "aspect": "S",
+        "gender": "m",
+        "numberWordForm": "1",
+        "person": "3",
+        "voice": "p"
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538d43dc477e0bb8a9c4c56",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "نَبَعَ الماءُ ونحوه من الأرضِ: خرَجَ منها يتدفَّق."
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "pour out",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "مروراً بلوحة زهرة عباد الشمس لفان جوخ وانتهاء بالحاسوب الشخصي ( نبعت ) من أناس هادئين ومتعقلين أدركوا كيف ينسجمون في أعماق عوالمهم الداخلية وعرفوا كيف يستخرجون الكنوز الكامنة فيهم",
+            "source": "المجلة العربية",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          }
+        ],
+        "relations": [
+          {
+            "_id": "6538d43dc477e0bb8a9c4c54",
+            "related": "6538d489c477e0bb8a9c5810",
+            "type": "ANTON"
+          },
+          {
+            "_id": "6538d43dc477e0bb8a9c4c55",
+            "related": "6538d223c477e0bb8a9bfa41",
+            "type": "ANTON"
+          }
+        ],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "فَعَلَ",
+    "pos": "V",
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "نبع",
+    "extras": {
+      "letterId": 26,
+      "riyadhId": "19811",
+      "senseIds": [
+        "5976"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538d43dc477e0bb8a9c4c56",
+          "transitivity": "فعل متعدٍّ بحرف",
+          "semanticField": "أفعال الاحتكام والقضاء",
+          "semanticDefinition": null,
+          "usageLevel": "متوسط",
+          "theme": "عام",
+          "mimmiInfinitive": "مَنْبَع",
+          "subjectiveName": "نَابِع",
+          "comparativeAdjective": "",
+          "murraName": "",
+          "shapeName": "",
+          "infinitive": [
+            "نَبْع"
+          ],
+          "objectiveName": [],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "a8c27ccf-3639-4627-a353-b168259ca1fb",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "مُتَوَرِّعَة"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "و ر ع"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "مُتَوَرِّعَة"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538df7bc477e0bb8a9dc9dd",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "مؤنث (مُتَوَرِّع)"
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "مُتَفَعِّلَة",
+    "pos": "AS",
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "متورعة",
+    "extras": {
+      "letterId": 28,
+      "riyadhId": "61975",
+      "senseIds": [
+        "79965"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538df7bc477e0bb8a9dc9dd",
+          "transitivity": null,
+          "semanticField": "أفعال الاتكال والاعتماد",
+          "semanticDefinition": "مثل أفعال : الاتكال، الاعتماد",
+          "usageLevel": "متوسط",
+          "theme": "عام",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "7180ec23-b64c-4f6d-a38e-3aaea8ab56d1",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "قَلَّ"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "ق ل ل"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "قَلَّ"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      },
+      {
+        "formRepresentations": [
+          {
+            "form": "يَقِلّ"
+          }
+        ],
+        "aspect": "S",
+        "gender": "m",
+        "numberWordForm": "1",
+        "person": "3",
+        "voice": "a"
+      },
+      {
+        "formRepresentations": [
+          {
+            "form": ""
+          }
+        ],
+        "aspect": "C",
+        "gender": "m",
+        "numberWordForm": "1",
+        "person": "2",
+        "voice": "a"
+      },
+      {
+        "formRepresentations": [
+          {
+            "form": ""
+          }
+        ],
+        "aspect": "P",
+        "gender": "m",
+        "numberWordForm": "1",
+        "person": "3",
+        "voice": "p"
+      },
+      {
+        "formRepresentations": [
+          {
+            "form": ""
+          }
+        ],
+        "aspect": "S",
+        "gender": "m",
+        "numberWordForm": "1",
+        "person": "3",
+        "voice": "p"
+      },
+      {
+        "formRepresentations": [
+          {
+            "form": "يَقِلّ"
+          }
+        ],
+        "aspect": "S",
+        "gender": "m",
+        "numberWordForm": "1",
+        "person": "3",
+        "voice": "a"
+      },
+      {
+        "formRepresentations": [
+          {
+            "form": ""
+          }
+        ],
+        "aspect": "C",
+        "gender": "m",
+        "numberWordForm": "1",
+        "person": "2",
+        "voice": "a"
+      },
+      {
+        "formRepresentations": [
+          {
+            "form": ""
+          }
+        ],
+        "aspect": "P",
+        "gender": "m",
+        "numberWordForm": "1",
+        "person": "3",
+        "voice": "p"
+      },
+      {
+        "formRepresentations": [
+          {
+            "form": ""
+          }
+        ],
+        "aspect": "S",
+        "gender": "m",
+        "numberWordForm": "1",
+        "person": "3",
+        "voice": "p"
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538d30ac477e0bb8a9c1c78",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "قلَّ الشيء انخفضت كميته"
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "To become little",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "وَلِلنِّسَاءِ نَصِيبٌ مِّمَّا تَرَكَ الْوَالِدَانِ وَالْأَقْرَبُونَ مِمَّا (قَلَّ) مِنْهُ أَوْ كَثُرَ",
+            "source": "قرآن كريم",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      },
+      {
+        "_id": "6538d30ac477e0bb8a9c1c7a",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "قَلَّ الشيءُ: نقَصَ."
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "To decrease",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "حديث شريف",
+            "exampleType": null
+          },
+          {
+            "form": "إن المناعة في الطفل تكون في أوجها وأما في الشيخوخة (قلت) وأسوار تهدمت...",
+            "source": "إبراهيم ناجي",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          }
+        ],
+        "relations": [
+          {
+            "_id": "6538d30ac477e0bb8a9c1c79",
+            "related": "6538d74fc477e0bb8a9cbc39",
+            "type": "SYNDROM"
+          }
+        ],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "فَعَلَ",
+    "pos": "V",
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "قل",
+    "extras": {
+      "letterId": 22,
+      "riyadhId": "17006",
+      "senseIds": [
+        "5124",
+        "9262"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538d30ac477e0bb8a9c1c78",
+          "transitivity": "فعل لازم",
+          "semanticField": "أفعال الاتكال والاعتماد",
+          "semanticDefinition": "مثل أفعال : الاتكال، الاعتماد",
+          "usageLevel": "متوسط",
+          "theme": "عام",
+          "mimmiInfinitive": "",
+          "subjectiveName": "",
+          "comparativeAdjective": "أَقَلّ",
+          "murraName": "",
+          "shapeName": "",
+          "infinitive": [
+            "قِلَّة"
+          ],
+          "objectiveName": [],
+          "resemblingAdjective": [
+            "قَلِيل"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        },
+        {
+          "senseId": "6538d30ac477e0bb8a9c1c7a",
+          "transitivity": "فعل لازم",
+          "semanticField": "أفعال الاحتكام والقضاء",
+          "semanticDefinition": null,
+          "usageLevel": "متوسط",
+          "theme": "عام",
+          "mimmiInfinitive": "",
+          "subjectiveName": "",
+          "comparativeAdjective": "أَقَلّ",
+          "murraName": "",
+          "shapeName": "",
+          "infinitive": [
+            "قِلَّة"
+          ],
+          "objectiveName": [],
+          "resemblingAdjective": [
+            "قَلِيل"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "208f4e46-a53d-4ee6-b2ef-edc066d9cc2f",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "شَيَاطِين اَلشِّعْرِ"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "كلمة ليس لها جذر"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "شَيَاطِين اَلشِّعْرِ"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538d9d4c477e0bb8a9d1306",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "معتقدات أسطورية للعرب عن الشاعر أن له شيطانًا يوحي إليه."
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "The poetry devils",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "كلمة ليس لها وزن",
+    "pos": null,
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "شياطين الشعر",
+    "extras": {
+      "letterId": 14,
+      "riyadhId": "37669",
+      "senseIds": [
+        "47400"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538d9d4c477e0bb8a9d1306",
+          "transitivity": null,
+          "semanticField": "ماورائيات",
+          "semanticDefinition": null,
+          "usageLevel": "متوسط",
+          "theme": "أدبي",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "db4d3ba9-87e5-48bc-931e-088fecabf3ee",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "زَهْرَة اَلْأَنْدَلُسِ"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "كلمة ليس لها جذر"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "زَهْرَة اَلْأَنْدَلُسِ"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538d777c477e0bb8a9cc0b9",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "نبات زاهي اللون ينمو في أوروبا وحوض البحر المتوسط."
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "Andalusia flower",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "كلمة ليس لها وزن",
+    "pos": null,
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "زهرة الأندلس",
+    "extras": {
+      "letterId": 12,
+      "riyadhId": "29650",
+      "senseIds": [
+        "38323"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538d777c477e0bb8a9cc0b9",
+          "transitivity": null,
+          "semanticField": null,
+          "semanticDefinition": null,
+          "usageLevel": "متوسط",
+          "theme": "زراعي",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "1612fd99-d8ea-4d03-8c12-5e785659dba8",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "بَنَادِق"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "ب ن د ق"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "بَنَادِق"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538d8e7c477e0bb8a9cee5e",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "جمع تكسير من (بُنْدُقِيَّة)"
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "rifles",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "فَعَالِل",
+    "pos": "NC",
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": true,
+    "sn": null,
+    "nonDiacriticsLemma": "بنادق",
+    "extras": {
+      "letterId": 3,
+      "riyadhId": "34822",
+      "senseIds": [
+        "43823"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538d8e7c477e0bb8a9cee5e",
+          "transitivity": null,
+          "semanticField": "أسلحة وذخائر",
+          "semanticDefinition": null,
+          "usageLevel": "شائع",
+          "theme": "عسكري",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "ac3aee1a-4f1e-4d9c-8192-a0e22ed19330",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "مِعْطَاءَة"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "ع ط و"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "مِعْطَاءَة"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538df94c477e0bb8a9dccdd",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "مؤنث (مِعْطَاء)"
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "مِفْعَالَة",
+    "pos": "AX",
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "معطاءة",
+    "extras": {
+      "letterId": 19,
+      "riyadhId": "62410",
+      "senseIds": [
+        "80515"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538df94c477e0bb8a9dccdd",
+          "transitivity": null,
+          "semanticField": "عموم المفاهيم والمصطلحات",
+          "semanticDefinition": "المفاهيم والمصطلحات كلمات مثل: غبن-البناء الضوئي",
+          "usageLevel": "متوسط",
+          "theme": "عام",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "f356950a-1a9b-49e5-8b61-90ef4ea1e4fe",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "تَقَوْلَبَ"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "ق ل ب"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "تَقَوْلَبَ"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      },
+      {
+        "formRepresentations": [
+          {
+            "form": "يَتَقَوْلَب"
+          }
+        ],
+        "aspect": "S",
+        "gender": "m",
+        "numberWordForm": "1",
+        "person": "3",
+        "voice": "a"
+      },
+      {
+        "formRepresentations": [
+          {
+            "form": ""
+          }
+        ],
+        "aspect": "C",
+        "gender": "m",
+        "numberWordForm": "1",
+        "person": "2",
+        "voice": "a"
+      },
+      {
+        "formRepresentations": [
+          {
+            "form": ""
+          }
+        ],
+        "aspect": "P",
+        "gender": "m",
+        "numberWordForm": "1",
+        "person": "3",
+        "voice": "p"
+      },
+      {
+        "formRepresentations": [
+          {
+            "form": ""
+          }
+        ],
+        "aspect": "S",
+        "gender": "m",
+        "numberWordForm": "1",
+        "person": "3",
+        "voice": "p"
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538d300c477e0bb8a9c1b06",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "تَقَوْلَبَ الشيءُ: اتَّخَذَ شكل القالب‏."
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "cast",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "اليوم السابع",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "تَفَوْعَلَ",
+    "pos": "V",
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "تقولب",
+    "extras": {
+      "letterId": 22,
+      "riyadhId": "16935",
+      "senseIds": [
+        "5099"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538d300c477e0bb8a9c1b06",
+          "transitivity": "فعل لازم",
+          "semanticField": "أفعال الاحتقار والسخرية",
+          "semanticDefinition": "مثل أفعال : الاحتقار، السخرية، الازدراء",
+          "usageLevel": "متوسط",
+          "theme": "عام",
+          "mimmiInfinitive": "",
+          "subjectiveName": "مُتَقَوْلِب",
+          "comparativeAdjective": "",
+          "murraName": "",
+          "shapeName": "",
+          "infinitive": [
+            "تَقَوْلَب"
+          ],
+          "objectiveName": [],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "4ff25c12-e4c2-41a9-a030-d7714dafdfad",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "سِرَاج اَلْمُؤْمِنِينَ"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "كلمة ليس لها جذر"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "سِرَاج اَلْمُؤْمِنِينَ"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538d78dc477e0bb8a9cc310",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "الهُدَى، وهو الشريعة المنزَّلة من الله."
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "right way",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "كلمة ليس لها وزن",
+    "pos": null,
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "سراج المؤمنين",
+    "extras": {
+      "letterId": 13,
+      "riyadhId": "29951",
+      "senseIds": [
+        "38624"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538d78dc477e0bb8a9cc310",
+          "transitivity": null,
+          "semanticField": "أفعال الاحترام والتقدير",
+          "semanticDefinition": "مثل أفعال : الاحترام، التقدير، التقديس",
+          "usageLevel": "متوسط",
+          "theme": "عام",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "475da974-a5ec-4a9b-91e4-6270b42fe420",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "أَدَائِيَّة"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "ء د و"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "أَدَائِيَّة"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538e0d3c477e0bb8a9df0db",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "مؤنث (أَدَائِيّ)"
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "فَعَالِيَّة",
+    "pos": null,
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "أدائية",
+    "extras": {
+      "letterId": 2,
+      "riyadhId": "67603",
+      "senseIds": [
+        "87250"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538e0d3c477e0bb8a9df0db",
+          "transitivity": null,
+          "semanticField": "أفعال الاتباع والاحتذاء",
+          "semanticDefinition": "مثل أفعال : الاتباع، التعقب، الاحتذاء",
+          "usageLevel": "متوسط",
+          "theme": "عام",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "8ab027c1-0df8-4645-9e99-8a74e75db128",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "خُلَّة"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "خ ل ل"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "خُلَّة"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [],
+    "morphologicalPatterns": "فُعْلَة",
+    "pos": "NA",
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "خلة",
+    "extras": {
+      "letterId": 8,
+      "riyadhId": "5540",
+      "senseIds": [],
+      "senseDetails": []
+    }
+  },
+  {
+    "_id": "2d2f3029-fcda-4786-9e77-188ac106cf09",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "سُمْر"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "س م ر"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "سُمْر"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538da37c477e0bb8a9d2112",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "جمع تكسير من (أسمر / سمراء)"
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "brown ( people )",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          }
+        ],
+        "relations": [
+          {
+            "_id": "6538da37c477e0bb8a9d210f",
+            "related": null,
+            "type": "SYNON",
+            "riyadhRelatedSenseId": "52783"
+          },
+          {
+            "_id": "6538da37c477e0bb8a9d2110",
+            "related": null,
+            "type": "ANTON",
+            "riyadhRelatedSenseId": "52783"
+          },
+          {
+            "_id": "6538da37c477e0bb8a9d2111",
+            "related": "6538da62c477e0bb8a9d2725",
+            "type": "ANTON"
+          }
+        ],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "فُعْل",
+    "pos": "AA",
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "سمر",
+    "extras": {
+      "letterId": 13,
+      "riyadhId": "38898",
+      "senseIds": [
+        "49035"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538da37c477e0bb8a9d2112",
+          "transitivity": null,
+          "semanticField": "أفعال الاحتكام والقضاء",
+          "semanticDefinition": null,
+          "usageLevel": "متوسط",
+          "theme": "عام",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "5a6c00f7-b138-47eb-837e-c30fc484c5fd",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "مُصَعِّبَة"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "ص ع ب"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "مُصَعِّبَة"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538e001c477e0bb8a9dd9e3",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "مؤنث (مُصَعِّب)"
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "مُفَعِّلَة",
+    "pos": "AS",
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "مصعبة",
+    "extras": {
+      "letterId": 15,
+      "riyadhId": "64319",
+      "senseIds": [
+        "82898"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538e001c477e0bb8a9dd9e3",
+          "transitivity": null,
+          "semanticField": "أفعال الاجتناب والإعراض",
+          "semanticDefinition": "مثل أفعال : الاجتناب، الإعراض، الاحتراز",
+          "usageLevel": "متوسط",
+          "theme": "عام",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "c31a3026-9982-4ef7-8525-7cff7f350f9b",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "اُسْتُوْعِبَ"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "و ع ب"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "اُسْتُوْعِبَ"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538e3adc477e0bb8a9e3626",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "الماضي المجهول من الفعل (اِسْتَوْعَبَ)"
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      },
+      {
+        "_id": "6538e3adc477e0bb8a9e3627",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": ""
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "اُسْتُفْعِلَ",
+    "pos": "V",
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "استوعب",
+    "extras": {
+      "letterId": 28,
+      "riyadhId": "90680",
+      "senseIds": [
+        "122771",
+        "122772"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538e3adc477e0bb8a9e3626",
+          "transitivity": "فعل متعدٍّ",
+          "semanticField": "أفعال الاجتناب والإعراض",
+          "semanticDefinition": "مثل أفعال : الاجتناب، الإعراض، الاحتراز",
+          "usageLevel": "متوسط",
+          "theme": "عام",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        },
+        {
+          "senseId": "6538e3adc477e0bb8a9e3627",
+          "transitivity": "فعل متعدٍّ",
+          "semanticField": "أفعال الاتهام والإدانة",
+          "semanticDefinition": "مثل أفعال : الإدانة، الاتهام",
+          "usageLevel": "متوسط",
+          "theme": "عام",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "cbaa7dc4-4357-495d-a6f4-5bbee50cc6db",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "طَبَقَة اَلْأُوزُونِ"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "كلمة ليس لها جذر"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "طَبَقَة اَلْأُوزُونِ"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538d8a3c477e0bb8a9ce35d",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "الطبقة الخامسة من طبقات الجو، وتحتوي بشكل مكثف على غاز الأوزون."
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "Ozone layer",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "موضوع",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "كلمة ليس لها وزن",
+    "pos": null,
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "طبقة الأوزون",
+    "extras": {
+      "letterId": 17,
+      "riyadhId": "34002",
+      "senseIds": [
+        "42734"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538d8a3c477e0bb8a9ce35d",
+          "transitivity": null,
+          "semanticField": "الكونيات",
+          "semanticDefinition": "كلمات مثل: الدنيا-الكون-العالم",
+          "usageLevel": "متخصص",
+          "theme": "علمي",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "647b58c4-7b4f-443d-981e-499ab79a3c83",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "يُحْبَك"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "ح ب ك"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "يُحْبَك"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538e5c7c477e0bb8a9e65c1",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "فعل مضارع مبني للمجهول من الفعل (حَبَكَ) المجرد"
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "يُفْعَل",
+    "pos": "V",
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "يحبك",
+    "extras": {
+      "letterId": 7,
+      "riyadhId": "95957",
+      "senseIds": [
+        "130974"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538e5c7c477e0bb8a9e65c1",
+          "transitivity": "فعل متعدٍّ",
+          "semanticField": "أفعال الاحتجاب والاختفاء",
+          "semanticDefinition": "مثل أفعال : الاحتجاب، الاختفاء، التستر",
+          "usageLevel": "متوسط",
+          "theme": "عام",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "208815e1-63d0-4d02-8766-505ea2e90233",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "أَسْمِدَة"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "س م د"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "أَسْمِدَة"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538cf9cc477e0bb8a9b9675",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "جمع تكسير من (سِمَاد)"
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "fertilizers",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          }
+        ],
+        "relations": [
+          {
+            "_id": "6538cf9cc477e0bb8a9b9671",
+            "related": "6538dbbfc477e0bb8a9d57dc",
+            "type": "SYNDROM"
+          },
+          {
+            "_id": "6538cf9cc477e0bb8a9b9672",
+            "related": "6538dbbfc477e0bb8a9d57de",
+            "type": "SYNDROM"
+          },
+          {
+            "_id": "6538cf9cc477e0bb8a9b9673",
+            "related": "6538dbbfc477e0bb8a9d57e0",
+            "type": "SYNDROM"
+          },
+          {
+            "_id": "6538cf9cc477e0bb8a9b9674",
+            "related": "6538dbbfc477e0bb8a9d57e2",
+            "type": "SYNDROM"
+          }
+        ],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "أَفْعِلَة",
+    "pos": "NC",
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "أسمدة",
+    "extras": {
+      "letterId": 13,
+      "riyadhId": "9254",
+      "senseIds": [
+        "18339"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538cf9cc477e0bb8a9b9675",
+          "transitivity": null,
+          "semanticField": "مواد كيميائية",
+          "semanticDefinition": "كلمات مثل: صوديوم-كبريت-ماغنسيوم",
+          "usageLevel": "متوسط",
+          "theme": "زراعي",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "85df9e41-2a1f-4aa2-9d29-f810b41eaead",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "مَصِيف"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "ص ي ف"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "مَصِيف"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538d09bc477e0bb8a9bbdde",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "مكان الإقامة في الصيف."
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "Summer resort",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "مَفِعْل",
+    "pos": "NL",
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": true,
+    "sn": null,
+    "nonDiacriticsLemma": "مصيف",
+    "extras": {
+      "letterId": 15,
+      "riyadhId": "11513",
+      "senseIds": [
+        "20508"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538d09bc477e0bb8a9bbdde",
+          "transitivity": null,
+          "semanticField": "مكان غير محدد",
+          "semanticDefinition": "الأماكن غير المحددة كلمات مثل: مهرب- مخرج- ملجأ",
+          "usageLevel": "متوسط",
+          "theme": "عام",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "مَصَايِف"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "1ef9a474-328a-492c-808f-5caceb35d8a0",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "تَسَلَّفْ"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "س ل ف"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "تَسَلَّفْ"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538e267c477e0bb8a9e186e",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "فعل الأمر من الفعل (تَسَلَّفَ)"
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "تَفَعَّلْ",
+    "pos": "V",
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "تسلف",
+    "extras": {
+      "letterId": 13,
+      "riyadhId": "87487",
+      "senseIds": [
+        "117281"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538e267c477e0bb8a9e186e",
+          "transitivity": "فعل متعدٍّ",
+          "semanticField": "أفعال الاحترام والتقدير",
+          "semanticDefinition": "مثل أفعال : الاحترام، التقدير، التقديس",
+          "usageLevel": "متوسط",
+          "theme": "عام",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "d251d50c-6ab3-471b-9b5b-366fd2d7aca6",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "سُبَاعِيّ"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "س ب ع"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "سُبَاعِيّ"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      },
+      {
+        "formRepresentations": [
+          {
+            "form": "سُبَاعِيَّة"
+          }
+        ],
+        "def": "i",
+        "gender": "f",
+        "numberWordForm": "1"
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538cf4ac477e0bb8a9b8925",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "منسوب إلى سُباع،ما يتكون من سبعة أجزاء."
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "sevenfold",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "اختتم ( السباعي ) كلماته التي حملت مزيدا من الأسى موجها الشكر لمجلة ديوان العرب التي وصفها من الدوريات الأدبية الرائعة",
+            "source": "ديوان العرب",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "الجزيرة نت",
+            "exampleType": null
+          }
+        ],
+        "relations": [
+          {
+            "_id": "6538cf4ac477e0bb8a9b8924",
+            "related": "6538dc80c477e0bb8a9d6fe0",
+            "type": "SYNDROM"
+          }
+        ],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "فُعَالِيّ",
+    "pos": null,
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "سباعي",
+    "extras": {
+      "letterId": 13,
+      "riyadhId": "8464",
+      "senseIds": [
+        "17583"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538cf4ac477e0bb8a9b8925",
+          "transitivity": null,
+          "semanticField": "أفعال الاتباع والاحتذاء",
+          "semanticDefinition": "مثل أفعال : الاتباع، التعقب، الاحتذاء",
+          "usageLevel": "متوسط",
+          "theme": "عام",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "2cafe601-124b-4662-916e-fe591819d4d9",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "يَسْتَشْكِل"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "ش ك ل"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "يَسْتَشْكِل"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538e6f3c477e0bb8a9e8216",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "فعل مضارع مزيد من الفعل (اِسْتَشْكَلَ)"
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "يَسْتَفْعِل",
+    "pos": "V",
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "يستشكل",
+    "extras": {
+      "letterId": 14,
+      "riyadhId": "99611",
+      "senseIds": [
+        "137355"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538e6f3c477e0bb8a9e8216",
+          "transitivity": "فعل لازم",
+          "semanticField": "أفعال الاحتجاب والاختفاء",
+          "semanticDefinition": "مثل أفعال : الاحتجاب، الاختفاء، التستر",
+          "usageLevel": "متوسط",
+          "theme": "عام",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "5e003ead-325c-4b08-9d3f-d8a067b60c08",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "صَقْرِيَّة"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "ص ق ر"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "صَقْرِيَّة"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538e160c477e0bb8a9dff41",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "مؤنث (صَقْرِيّ)"
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "فَعْلِيَّة",
+    "pos": null,
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "صقرية",
+    "extras": {
+      "letterId": 15,
+      "riyadhId": "69563",
+      "senseIds": [
+        "89291"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538e160c477e0bb8a9dff41",
+          "transitivity": null,
+          "semanticField": "عموم المفاهيم والمصطلحات",
+          "semanticDefinition": "المفاهيم والمصطلحات كلمات مثل: غبن-البناء الضوئي",
+          "usageLevel": "متوسط",
+          "theme": "عام",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "a9346132-b58f-4e5a-998c-dfc44d6e63b5",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "بُوتَاسِيّ"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "ب ت س"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "بُوتَاسِيّ"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538d650c477e0bb8a9c9da4",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "منسوب إلى بوتاس،من العناصر اللازمة للنبات."
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "potassium",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "كلمة ليس لها وزن",
+    "pos": null,
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "بوتاسي",
+    "extras": {
+      "letterId": 3,
+      "riyadhId": "25408",
+      "senseIds": [
+        "34103"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538d650c477e0bb8a9c9da4",
+          "transitivity": null,
+          "semanticField": "أفعال الاتباع والاحتذاء",
+          "semanticDefinition": "مثل أفعال : الاتباع، التعقب، الاحتذاء",
+          "usageLevel": "متوسط",
+          "theme": "زراعي",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "0743644d-5863-492d-9150-9a50acdd9c83",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "مَجَّانِيَّة"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "م ج ن"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "مَجَّانِيَّة"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538e1a6c477e0bb8a9e0591",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "مؤنث (مَجَّانِيّ)"
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "فَعَّالِيَّة",
+    "pos": null,
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "مجانية",
+    "extras": {
+      "letterId": 25,
+      "riyadhId": "70382",
+      "senseIds": [
+        "90148"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538e1a6c477e0bb8a9e0591",
+          "transitivity": null,
+          "semanticField": "أفعال الاتباع والاحتذاء",
+          "semanticDefinition": "مثل أفعال : الاتباع، التعقب، الاحتذاء",
+          "usageLevel": "متوسط",
+          "theme": "عام",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "7ca4cce1-bf5b-408b-807e-09eda380ef75",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "بَرْهَنَ"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "ب ر ه ن"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "بَرْهَنَ"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      },
+      {
+        "formRepresentations": [
+          {
+            "form": "يُبَرْهِن"
+          }
+        ],
+        "aspect": "S",
+        "gender": "m",
+        "numberWordForm": "1",
+        "person": "3",
+        "voice": "a"
+      },
+      {
+        "formRepresentations": [
+          {
+            "form": "بَرْهِنْ"
+          }
+        ],
+        "aspect": "C",
+        "gender": "m",
+        "numberWordForm": "1",
+        "person": "2",
+        "voice": "a"
+      },
+      {
+        "formRepresentations": [
+          {
+            "form": "بُرْهِنَ"
+          }
+        ],
+        "aspect": "P",
+        "gender": "m",
+        "numberWordForm": "1",
+        "person": "3",
+        "voice": "p"
+      },
+      {
+        "formRepresentations": [
+          {
+            "form": "يُبَرْهَن"
+          }
+        ],
+        "aspect": "S",
+        "gender": "m",
+        "numberWordForm": "1",
+        "person": "3",
+        "voice": "p"
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538cbdec477e0bb8a9b03ad",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "بَرْهَنَ فلانٌ الشيءَ / عليه: أثبته‏ وأقام عليه الدليل."
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "prove",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "(يبرهن) عن تاريخية هذا الشعر وانخراطه العميق في المعركة الحضارية",
+            "source": "أرشيف المجلات الأدبية",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "الشروق",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "فَعْلَلَ",
+    "pos": "V",
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "برهن",
+    "extras": {
+      "letterId": 3,
+      "riyadhId": "1116",
+      "senseIds": [
+        "315"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538cbdec477e0bb8a9b03ad",
+          "transitivity": "فعل متعدٍّ",
+          "semanticField": "أفعال الإقناع",
+          "semanticDefinition": "مثل أفعال : الإقناع",
+          "usageLevel": "متوسط",
+          "theme": "عام",
+          "mimmiInfinitive": "",
+          "subjectiveName": "مُبَرْهِن",
+          "comparativeAdjective": "",
+          "murraName": "",
+          "shapeName": "",
+          "infinitive": [
+            "بَرْهَنَة"
+          ],
+          "objectiveName": [
+            "مُبَرْهَن"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "5657606f-0c39-42d8-ad2b-559fd7363c48",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "يُدَلِّل"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "د ل ل"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "يُدَلِّل"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538e77cc477e0bb8a9e8f18",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "فعل مضارع مزيد من الفعل (دَلَّلَ)"
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "يُفَعِّل",
+    "pos": "V",
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "يدلل",
+    "extras": {
+      "letterId": 9,
+      "riyadhId": "101280",
+      "senseIds": [
+        "140369"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538e77cc477e0bb8a9e8f18",
+          "transitivity": "فعل متعدٍّ بحرف",
+          "semanticField": "أفعال الاحتجاب والاختفاء",
+          "semanticDefinition": "مثل أفعال : الاحتجاب، الاختفاء، التستر",
+          "usageLevel": "متوسط",
+          "theme": "عام",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "694dff00-60fe-4cf6-8cad-0aeb3e5736a2",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "اَلْقُوَّة اَلطَّارِدَة مِنْ اَلْمَرْكَزِ"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "كلمة ليس لها جذر"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "اَلْقُوَّة اَلطَّارِدَة مِنْ اَلْمَرْكَزِ"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538de00c477e0bb8a9da116",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "طاقة الدفع المركزية."
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "ويكيبيديا",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "كلمة ليس لها وزن",
+    "pos": null,
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "القوة الطاردة من المركز",
+    "extras": {
+      "letterId": 22,
+      "riyadhId": "51985",
+      "senseIds": [
+        "65169"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538de00c477e0bb8a9da116",
+          "transitivity": null,
+          "semanticField": "أفعال الاحتقار والسخرية",
+          "semanticDefinition": "مثل أفعال : الاحتقار، السخرية، الازدراء",
+          "usageLevel": "متخصص",
+          "theme": "عام",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "5aaae3d4-e5f6-4706-8cb9-2079459000fa",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "دَلِيل اَلتِّلِيفُون"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "كلمة ليس لها جذر"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "دَلِيل اَلتِّلِيفُون"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538d8c4c477e0bb8a9ce8aa",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "سِجِلّ به جميع أرقام الهواتف في منطقة معينة وبيانات مالكيها."
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "telephone directory",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "الوطن نيوز",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "كلمة ليس لها وزن",
+    "pos": null,
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "دليل التليفون",
+    "extras": {
+      "letterId": 9,
+      "riyadhId": "34385",
+      "senseIds": [
+        "43217"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538d8c4c477e0bb8a9ce8aa",
+          "transitivity": null,
+          "semanticField": "مصادر المعلومات الوثائقية",
+          "semanticDefinition": "أوراق رسمية وثبوتية كلمات مثل: بطاقة-عقد-اتفاقية",
+          "usageLevel": "متوسط",
+          "theme": "عام",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "59dbdb19-963d-4d6e-8c2b-822fbaf6b789",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "رَفّ"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "ر ف ف"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "رَفّ"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [],
+    "morphologicalPatterns": "فَعْل",
+    "pos": "NC",
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "رف",
+    "extras": {
+      "letterId": 11,
+      "riyadhId": "7458",
+      "senseIds": [],
+      "senseDetails": []
+    }
+  },
+  {
+    "_id": "105f8787-aaf6-4873-a4d4-7554626bf622",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "جَنُوبِيّ"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "ج ن ب"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "جَنُوبِيّ"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [],
+    "morphologicalPatterns": "فَعُولِيّ",
+    "pos": "NC",
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "جنوبي",
+    "extras": {
+      "letterId": 6,
+      "riyadhId": "48764",
+      "senseIds": [],
+      "senseDetails": []
+    }
+  },
+  {
+    "_id": "0b7aa079-0439-4a54-9454-4a11851603d3",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "اَلْفِقْه اَلْحَنْبَلِيّ"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "كلمة ليس لها جذر"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "اَلْفِقْه اَلْحَنْبَلِيّ"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538d69cc477e0bb8a9ca7e0",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "العلم الذي يدرس أصول الشريعة الإسلامية وفروعها وفقا لمذهب الإمام أحمد بن حنبل رحمه الله."
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "Hanbali jurisprudence",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "مجلة العربي",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "كلمة ليس لها وزن",
+    "pos": null,
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "الفقه الحنبلي",
+    "extras": {
+      "letterId": 21,
+      "riyadhId": "26445",
+      "senseIds": [
+        "35117"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538d69cc477e0bb8a9ca7e0",
+          "transitivity": null,
+          "semanticField": "علوم وآداب",
+          "semanticDefinition": "العلوم والآداب كلمات مثل: فيزياء- كيمياء-جغرافيا",
+          "usageLevel": "متخصص",
+          "theme": "ديني",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "17a55167-a297-4a58-b0b5-6b0c3b0f88de",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "خُطَّاف اَلْجَرَّاحِ"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "كلمة ليس لها جذر"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "خُطَّاف اَلْجَرَّاحِ"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538d751c477e0bb8a9cbc65",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "أداة جراحية يستخدمها الجراح؛ لرفع الأعضاء وإمساكها خلال العملية."
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "tenaculum",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "شركه فولفو",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "كلمة ليس لها وزن",
+    "pos": null,
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "خطاف الجراح",
+    "extras": {
+      "letterId": 8,
+      "riyadhId": "29098",
+      "senseIds": [
+        "37771"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538d751c477e0bb8a9cbc65",
+          "transitivity": null,
+          "semanticField": "آلات وأدوات",
+          "semanticDefinition": "الأدوات كلمات مثل: منظار-مثقاب - منشار",
+          "usageLevel": "متخصص",
+          "theme": "طبي",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "f5165a45-b1fe-4b82-b1fc-01606b81d06c",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "مُقَشْعَر"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": null
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "مُقَشْعَر"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538ec92e12ab605f31daeed",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "مَأْخوذٌ بِرِعْدَةٍ وَارْتِعاشٍ"
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": null,
+            "source": null,
+            "exampleType": null
+          },
+          {
+            "form": null,
+            "source": null,
+            "exampleType": null
+          },
+          {
+            "form": "الجسد مُقَشْعَرٌ بين جليد رفضك ونار أشواقك",
+            "source": null,
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": null,
+    "pos": "AO",
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": true,
+    "sn": null,
+    "nonDiacriticsLemma": "مقشعر",
+    "extras": {
+      "letterId": 25,
+      "riyadhId": "108043",
+      "senseIds": [
+        "149003"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538ec92e12ab605f31daeed",
+          "transitivity": null,
+          "semanticField": null,
+          "semanticDefinition": null,
+          "usageLevel": "شائع",
+          "theme": null,
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "bdc51a2a-cb7e-4f26-bb14-1bb7966e0538",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "يُسْتَحَثّ"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "ح ث ث"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "يُسْتَحَثّ"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538e51bc477e0bb8a9e5674",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "فعل مضارع مبني للمجهول من الفعل (اِسْتَحَثَّ) "
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "يُسْتَفْعَل",
+    "pos": "V",
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "يستحث",
+    "extras": {
+      "letterId": 7,
+      "riyadhId": "93976",
+      "senseIds": [
+        "127969"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538e51bc477e0bb8a9e5674",
+          "transitivity": "فعل متعدٍّ",
+          "semanticField": "أفعال الاحتجاب والاختفاء",
+          "semanticDefinition": "مثل أفعال : الاحتجاب، الاختفاء، التستر",
+          "usageLevel": "متوسط",
+          "theme": "عام",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "7891394a-6b6b-440a-ba56-f6201c89eecd",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "لَحْمِيَّة"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "ل ح م"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "لَحْمِيَّة"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538d39bc477e0bb8a9c32b0",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "زائدة من لحم، كالزائدة الأنفية."
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "Adenoids",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "فَعْلِيَّة",
+    "pos": "NC",
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": true,
+    "sn": null,
+    "nonDiacriticsLemma": "لحمية",
+    "extras": {
+      "letterId": 24,
+      "riyadhId": "18281",
+      "senseIds": [
+        "27082"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538d39bc477e0bb8a9c32b0",
+          "transitivity": null,
+          "semanticField": null,
+          "semanticDefinition": null,
+          "usageLevel": "متوسط",
+          "theme": "طبي",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "4854fb25-8b63-4960-b02e-1bf7c2eccb95",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "مَقَام إِبْرَاهِيمَ"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "كلمة ليس لها جذر"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "مَقَام إِبْرَاهِيمَ"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538d825c477e0bb8a9cd465",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "مكان مُقدَّس داخل البيت الحرام يُطلَق عليه اسم النبيّ إبراهيم عليه السلام."
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "Maqam Ibrahim",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "وَإِذْ جَعَلْنَا الْبَيْتَ مَثَابَةً لِّلنَّاسِ وَأَمْنًا وَاتَّخِذُوا مِن (مَّقَامِ إِبْرَاهِيمَ) مُصَلًّى...",
+            "source": "قرآن كريم",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "كلمة ليس لها وزن",
+    "pos": null,
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "مقام إبراهيم",
+    "extras": {
+      "letterId": 22,
+      "riyadhId": "32208",
+      "senseIds": [
+        "40881"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538d825c477e0bb8a9cd465",
+          "transitivity": null,
+          "semanticField": "أجزاء المبنى",
+          "semanticDefinition": "أجزاء المبنى كلمات مثل: شرفة-باب-غرفة",
+          "usageLevel": "متوسط",
+          "theme": "ديني",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "aa9cc7f3-d8c1-4e0b-9868-578f0015d3f9",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "أَنْفَذ"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "ن ف ذ"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "أَنْفَذ"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538dcc8c477e0bb8a9d7aab",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "أكثر نفوذًا وتأثيرًا من غيره."
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "تمثل الاستعارة المكنية التي وظفتها الروائية تعبيرا لغويا (أنفذ) في الذهن وأكثر وقعا",
+            "source": "أرشيف المجلات الأدبية",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "الأهرام",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "أَفْعَل",
+    "pos": "AP",
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": true,
+    "sn": null,
+    "nonDiacriticsLemma": "أنفذ",
+    "extras": {
+      "letterId": 26,
+      "riyadhId": "47801",
+      "senseIds": [
+        "60317"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538dcc8c477e0bb8a9d7aab",
+          "transitivity": null,
+          "semanticField": "عموم المفاهيم والمصطلحات",
+          "semanticDefinition": "المفاهيم والمصطلحات كلمات مثل: غبن-البناء الضوئي",
+          "usageLevel": "متوسط",
+          "theme": "عام",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "6cfea908-331e-4e4d-8ee4-01b6e05e2ac0",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "قُدُس"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "ق د س"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "قُدُس"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538d2aec477e0bb8a9c0e87",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "طُهْر وبَرَكة."
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "Holiness",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "يا هيكل القدس روح القدس حلَّ به/ منه ظفرتِ بسرٍّ (قُدسِ) أقداسِ...",
+            "source": "جرمانوس فرحات",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          }
+        ],
+        "relations": [
+          {
+            "_id": "6538d2aec477e0bb8a9c0e85",
+            "related": "6538d6bac477e0bb8a9cab40",
+            "type": "COIN"
+          },
+          {
+            "_id": "6538d2aec477e0bb8a9c0e86",
+            "related": "6538d735c477e0bb8a9cb93c",
+            "type": "COIN"
+          }
+        ],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "فُعُل",
+    "pos": "NA",
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "قدس",
+    "extras": {
+      "letterId": 22,
+      "riyadhId": "16268",
+      "senseIds": [
+        "25100"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538d2aec477e0bb8a9c0e87",
+          "transitivity": null,
+          "semanticField": "أفعال الاحتجاب والاختفاء",
+          "semanticDefinition": "مثل أفعال : الاحتجاب، الاختفاء، التستر",
+          "usageLevel": "متوسط",
+          "theme": "عام",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "أَقْدَاس"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "98fb6651-42a0-4611-9f71-cbdd4be0f97a",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "يُلْهَى"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "ل ه و"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "يُلْهَى"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538e64bc477e0bb8a9e7236",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "فعل مضارع مبني للمجهول من الفعل (لَهَا) المجرد"
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "يُفْعَل",
+    "pos": "V",
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": null,
+    "sn": null,
+    "nonDiacriticsLemma": "يلهى",
+    "extras": {
+      "letterId": 24,
+      "riyadhId": "97557",
+      "senseIds": [
+        "134108"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538e64bc477e0bb8a9e7236",
+          "transitivity": "فعل متعدٍّ بحرف",
+          "semanticField": "أفعال الاتهام والإدانة",
+          "semanticDefinition": "مثل أفعال : الإدانة، الاتهام",
+          "usageLevel": "متوسط",
+          "theme": "عام",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "c8dcb7bc-4f0c-4f02-9f51-b82d6397ef2f",
+    "lemma": {
+      "formRepresentations": [
+        {
+          "form": "اَلْأَنْدُونِيسِيَّة"
+        }
+      ],
+      "type": "singleWord",
+      "typeLookup": {
+        "_id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97",
+        "label": "مفردة",
+        "code": "singleWord",
+        "category": "LexicalEntryLemmaType",
+        "__v": 0,
+        "updatedAt": "2023-04-27T08:53:44.917Z",
+        "updatedByUserId": "6b8a4e36-05ab-4a07-ba37-843ff7922344",
+        "order": 0,
+        "categoryLabel": {
+          "code": "LexicalEntryLemmaType",
+          "label": "نوع الكلمة"
+        },
+        "id": "39671bf6-11ef-462f-a5c9-c4e06a19aa97"
+      }
+    },
+    "stems": [
+      {
+        "formRepresentations": [
+          {
+            "form": "ء ن د ن س"
+          }
+        ],
+        "type": "root"
+      }
+    ],
+    "wordForms": [
+      {
+        "formRepresentations": [
+          {
+            "form": "اَلْأَنْدُونِيسِيَّة"
+          }
+        ],
+        "gender": null,
+        "numberWordForm": null
+      }
+    ],
+    "senses": [
+      {
+        "_id": "6538d95fc477e0bb8a9d01fa",
+        "contexts": [],
+        "definition": {
+          "textRepresentations": [
+            {
+              "form": "لهجة قياسية من اللغة المالاوية، تستعمل في عدة دول منها إندونيسيا وماليزيا وسنغافورة."
+            }
+          ],
+          "statement": {
+            "textRepresentations": {
+              "form": null
+            }
+          }
+        },
+        "translations": [
+          {
+            "form": "Indonesian",
+            "language": null
+          }
+        ],
+        "examples": [
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "",
+            "exampleType": null
+          },
+          {
+            "form": "",
+            "source": "الاتحاد",
+            "exampleType": null
+          }
+        ],
+        "relations": [],
+        "domains": []
+      }
+    ],
+    "morphologicalPatterns": "كلمة ليس لها وزن",
+    "pos": "NC",
+    "verbOrigin": null,
+    "nounOrigin": null,
+    "originality": "A",
+    "hasTanween": true,
+    "sn": null,
+    "nonDiacriticsLemma": "الأندونيسية",
+    "extras": {
+      "letterId": 2,
+      "riyadhId": "36258",
+      "senseIds": [
+        "45653"
+      ],
+      "senseDetails": [
+        {
+          "senseId": "6538d95fc477e0bb8a9d01fa",
+          "transitivity": null,
+          "semanticField": "لغات ولهجات",
+          "semanticDefinition": "اللغات واللهجات كلمات مثل: العربية-الإنجليزية-العبرية",
+          "usageLevel": "متوسط",
+          "theme": "لغوي",
+          "mimmiInfinitive": null,
+          "subjectiveName": null,
+          "comparativeAdjective": null,
+          "murraName": null,
+          "shapeName": null,
+          "infinitive": [
+            "*"
+          ],
+          "objectiveName": [
+            "*"
+          ],
+          "resemblingAdjective": [
+            "*"
+          ],
+          "intenseAdjective": [
+            "*"
+          ],
+          "BrokenPlural": [
+            "*"
+          ]
+        }
+      ]
+    }
+  }
+]
